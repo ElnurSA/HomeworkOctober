@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/PracticeOctober/bin/Debug/net6.0/PracticeOctober
+/Users/safiyevelnur/Desktop/PracticeOctober/bin/Debug/net6.0/PracticeOctober.deps.json
+/Users/safiyevelnur/Desktop/PracticeOctober/bin/Debug/net6.0/PracticeOctober.runtimeconfig.json
+/Users/safiyevelnur/Desktop/PracticeOctober/bin/Debug/net6.0/PracticeOctober.dll
+/Users/safiyevelnur/Desktop/PracticeOctober/bin/Debug/net6.0/PracticeOctober.pdb
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.dll
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/refint/PracticeOctober.dll
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.pdb
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/PracticeOctober.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/PracticeOctober/obj/Debug/net6.0/ref/PracticeOctober.dll
